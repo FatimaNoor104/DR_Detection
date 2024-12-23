@@ -45,7 +45,7 @@ st.markdown(
 
 model, class_names = load_model()
 
-logo_path = "Logo.png"  
+logo_path = r"C:\Users\Fatima Noor\Downloads\DR_Detection\Logo.png" 
 if os.path.exists(logo_path):
     with open(logo_path, "rb") as f:
         logo_image = f.read()
