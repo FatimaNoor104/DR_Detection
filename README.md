@@ -113,6 +113,7 @@ The Streamlit app provides a simple interface for:
 3. *Visualization*: Displays the Grad-CAM heatmap for explainability.
 
 ### App Walkthrough
+The app can be accessed online using the following link: [Streamlit App](https://drdetectionandgradcamvisualization.streamlit.app/)
 The following screenshots demonstrate the functionality of the Streamlit app:
 
 1. *Home Page:* The app's landing page with an option to upload a retinal image.
